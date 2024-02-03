@@ -23,7 +23,7 @@ I'm an python developer, with desire to learn every useful programming language 
 
 ![My current GitHub stats](https://github-readme-stats.vercel.app/api?username=vburkalo&show_icons=true&theme=neon)
 
-<!-- ![GitHub Streak](https://streak-stats.demolab.com?user=vburkalo&theme=neon&border_radius=4.5) -->
+[![GitHub Streak](https://streak-stats.demolab.com?user=vburkalo&theme=neon&hide_longest_streak=true)](https://git.io/streak-stats)
 
 #
 
