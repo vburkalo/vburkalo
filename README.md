@@ -1,4 +1,4 @@
-# 👱🏼 Vitalii Burkalo
+# 👱🏼‍♂️ Vitalii Burkalo
 
 **`Philantropist. Ambitious developer. Highly disciplined. Highly motivated. Go-getter. Goal oriented.`**
 
