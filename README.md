@@ -29,9 +29,4 @@ I'm an python developer, with desire to learn every useful programming language 
 
 <details>
  <summary><h3>👨‍💻 My Coding Journey</h3></summary>
-   **`Mate Academy courses (Higher Education)`**
-   I studied the following programming languages:
-   Python, C++(on my own), HTML, CSS, Javascript.
-   I learnt everything about python and different languages and frameworks also mastered OOP.
- 
-   To be continued...
+   Mate Academy courses (Higher Education). I studied the following programming languages: Python, C++(on my own), HTML, CSS, Javascript. I learnt everything about python and different languages and frameworks also mastered OOP.                                                                                                                                                                                                                                                                                                          To be continued...
