@@ -17,7 +17,9 @@ I'm an python developer, with desire to learn every useful programming language 
 <img align="left" alt="Bash" width="40px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" />
 <br />
 
+
 ### 📈 Stats
+
 
 ![My current GitHub stats](https://github-readme-stats.vercel.app/api?username=vburkalo&show_icons=true&theme=neon)
 
