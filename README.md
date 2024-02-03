@@ -26,3 +26,12 @@ I'm an python developer, with desire to learn every useful programming language 
 <!-- ![GitHub Streak](https://streak-stats.demolab.com?user=vburkalo&theme=neon&border_radius=4.5) -->
 
 #
+
+<details>
+ <summary><h3>👨‍💻 My Coding Journey</h3></summary>
+   **`Mate Academy courses (Higher Education)`**
+   I studied the following programming languages:
+   Python, C++(on my own), HTML, CSS, Javascript.
+   I learnt everything about python and different languages and frameworks also mastered OOP.
+ 
+   To be continued...
